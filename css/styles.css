@@ -94,7 +94,7 @@ nav#global ul li a:hover {
 nav#global ul li #subMenu {
 	position: absolute;
 	top: 35px;
-	left: -387px;
+	right: 330px;
 	-moz-transform: translate(0, 11px);
 	-webkit-transform: translate(232px, 0);
 	background: #970000;
